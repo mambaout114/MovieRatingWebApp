@@ -49,7 +49,7 @@ The following is an outline of the structure of all files under the `src` folder
 	+ `movieSlice.ts` (defines the movies reducer)
 * **utils**
 	+ `fetchMovieData.ts` (defines the fetchMovieData function)
- + `formattedRating.ts` (defines the formattedRating function)
+  	+ `formattedRating.ts` (defines the formattedRating function)
 * **types**
 	+ `index.ts` (defines the Movie type)
 
@@ -61,7 +61,7 @@ The application features the following functionality:
 * Search Bar: allows users to search for movies by title.
 * Movie List: displays movie thumbnails, titles, average ratings, and "ViewDetails" buttons.
 * Movie Poster: displays a larger image of the movie.
-* Movie Details page: shows the title, genre, release date, and average rating.
+* Movie Details: shows the title, genre, release date, and average rating.
 * Rating Component: allows users to rate the movie on a scale of 1 to 5 stars.
 
 **Components**
