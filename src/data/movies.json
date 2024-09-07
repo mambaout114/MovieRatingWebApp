@@ -1,0 +1,1082 @@
+[
+    {
+        "id": "1",
+        "title": "Alien: Romulus",
+        "description": "While scavenging the deep ends of a derelict space station, a group of young space colonists come face to face with the most terrifying life form in the universe.",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/alien.jpg"
+    },
+    {
+        "id": "2",
+        "title": "Deadpool & Wolverine",
+        "description": "Wolverine is recovering from his injuries when he crosses paths with the loudmouth, Deadpool. They team up to defeat a common enemy.",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/deadpool_and_wolverine.jpg"
+    },
+    {
+        "id": "3",
+        "title": "Iddu",
+        "description": "iduu",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/iddu.jpg"
+    },
+    {
+        "id": "4",
+        "title": "Joker: Folie à Deux",    
+        "description": "Joker: Folie à Deux",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/joker_folie_a_deux.jpg"
+    },
+    {
+        "id": "5",
+        "title": "Nickel Boys",
+        "description": "Nickel Boys",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/nickel_boys.jpg"
+    },
+    {
+        "id": "6",
+        "title": "Reagan",
+        "description": "Reagan",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/reagan.jpg"
+    },
+    {
+        "id": "7",
+        "title": "Shade",
+        "description": "Shade",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/shade.jpg"
+    },
+    {
+        "id": "8",
+        "title": "Twisters",
+        "description": "Twisters",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "9",
+        "title": "Unstoppable",
+        "description": "unstoppable",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/unstoppable.jpg"
+    },
+    {
+        "id": "10",
+        "title": "Will & Harper, High Tide, Megalopolis2",
+        "description": "Will & Harper, High Tide, Megalopolis",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/will_and_harper.jpg"
+    },
+    {
+        "id": "11",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "12",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "13",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "14",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "15",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "16",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "17",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "18",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "19",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "20",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "21",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "22",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "23",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "24",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "25",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "26",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "27",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "28",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "29",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "30",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "31",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "32",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "33",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "34",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "35",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "36",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "37",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "38",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "39",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "40",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "41",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "42",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "43",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "44",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "45",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "46",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "47",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "48",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "49",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "50",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "51",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "52",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "53",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "54",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "55",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "56",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "57",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "58",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "59",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "60",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "thriller",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "61",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "62",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "63",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "64",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "65",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "66",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "67",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "68",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "69",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "70",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "71",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "72",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "73",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "74",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "75",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "76",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "77",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "78",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "79",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "80",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "81",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "82",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "83",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "84",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "85",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "86",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "87",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "88",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "89",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "90",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "91",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "92",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "93",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "94",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "95",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "96",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "97",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "98",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "99",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "100",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "101",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "102",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "103",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "104",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "105",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "106",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "107",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "108",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "109",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "110",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "111",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "112",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "113",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "114",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "115",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "116",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "117",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "118",
+        "title": "dummy title 2",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    },
+    {
+        "id": "119",
+        "title": "dummy title 1",
+        "description": "dummy description 1",
+        "ratingList": [1, 2, 3, 4, 5, 1, 2, 3],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/dummy.jpg"
+    },
+    {
+        "id": "120",
+        "title": "dummy title 120",
+        "description": "dummy description 2",
+        "ratingList": [1, 2, 1, 3, 1, 4, 1, 5],
+        "genre": "action",
+        "releaseDate": "2024-09-07",
+        "thumbnail": "/images/Twisters.jpg"
+    }
+]
